@@ -1,0 +1,8 @@
+.vscode/
+*/__pycache__/
+data-pipeline/dataset/*.csv
+data-pipeline/dataset/*/
+data-pipeline/corpus/
+onset-model/tmp/
+onset-model/results/*
+!onset-model/results/analyse.py
