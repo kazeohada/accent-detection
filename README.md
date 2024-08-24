@@ -22,7 +22,6 @@ $ export PATH=/tmp/ffmpeg-4.1:$PATH
 
 # The Data Pipeline
 
-Make sure you run every python script in the ./data-pipeline directory
 Before running, set up Music21's MusicXML path as MuseScore4 by running config.py.
 Run the data pipeline with main.py.
 The data pipeline will take MusicXML files located in corpus/mxl and output a dataset in the dataset directory.
