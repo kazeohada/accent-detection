@@ -1,3 +1,9 @@
+# Automatic Accent Detection
+
+This is the code repository supporting my Bachelor's thesis, where I explored automatically detecting whether a musical note is accented or not. I am extremely proud to have scored a grade of 90.1\% for my work! 
+
+You can find the [report here](https://github.com/kazeohada/accent-detection/blob/main/docs/Final%20Year%20Project%20Report%20-%20Kazeo%20K%20Hada.pdf) and the generated dataset used for my paper here: https://www.kaggle.com/datasets/kazeohada/accented-note-onset-dataset/data
+
 ## Prerequisistes
 
 Python version 3.8.x
